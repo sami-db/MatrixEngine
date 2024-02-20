@@ -48,7 +48,7 @@ Pour installer et exécuter MatrixEngine :
 
 ```bash
 # Cloner le dépôt
-git clone (url du dépot)
+git clone https://github.com/sami-db/MatrixEngine.git
 cd MatrixEngine
 
 # Lancer l'application
